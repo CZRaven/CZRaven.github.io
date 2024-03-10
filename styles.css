@@ -3,14 +3,9 @@ h1 {
 	font-family: "Rubik Mono One", sans-serif;
 	color: DodgerBlue;
 	padding-top: 8px;
-	padding-bottom: 8px;
-	background-color: DimGrey;
+	padding-bottom: 8px
 }
 
-h1:hover {
-	color: Crimson;
-	background-color: Cornsilk;
-}
 	
 html {
 	text-align: center;
@@ -33,3 +28,7 @@ body {
 	left: 0px;
 }
 
+.quote:hover {
+	font-size: 968px;
+	background-color: DarkRed;
+}
