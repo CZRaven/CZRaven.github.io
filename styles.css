@@ -2,6 +2,14 @@ h1 {
 	font-size: 29px;
 	font-family: "Rubik Mono One", sans-serif;
 	color: DodgerBlue;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	background-color: DimGrey;
+}
+
+h1:hover {
+	color: Crimson;
+	background-color: Cornsilk;
 }
 	
 html {
@@ -13,5 +21,15 @@ html {
 }
 
 body {
-	font-family: "Azeret Mono";
+	font-family: "Courier New";
 }
+
+.censeur {
+	background-color: Black;
+}
+
+#les {
+	position: relative;
+	left: 0px;
+}
+
