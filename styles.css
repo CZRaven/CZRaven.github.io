@@ -1,0 +1,17 @@
+h1 {
+	font-size: 29px;
+	font-family: "Rubik Mono One", sans-serif;
+	color: DodgerBlue;
+}
+	
+html {
+	text-align: center;
+	margin: 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+body {
+	font-family: "Azeret Mono";
+}
